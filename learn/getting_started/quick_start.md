@@ -178,7 +178,7 @@ The only step missing now is adding a search bar to your project. The easiest wa
 3. Copy-paste one of the code samples above—either vanilla JavaScript, Vue 2, or React— and save the file
 4. Open `index.html` in your browser by double-clicking it in your folder
 
-You should now have a working front-end search interface 🚀🔥
+You should now have a working front-end search interface 🚀
 
 ## Securing Meilisearch
 
